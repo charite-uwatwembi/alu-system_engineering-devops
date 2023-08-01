@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #Connects to the ubuntu server using a private key
 
-ssh -i ~/.ssh/school ubuntu@107.22.30.13
+ssh -i ~/.ssh/school ubuntu@ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCIa6uRicI3+IkI9vDEsiasPioZCLgztkdVXaJ3B1O4vAHDBJIpqBzkNXw2ELLUl5p3VVtXxA2tVcz7bXOe9WFZEouVdquE1PS2fIRxGuzc6uzbPmWcca9XybvGnM5TqSG5we/J1MB+Qh71J3BFpzam/FvPmF84p2so8REyD+1cEYEhjVA0kpwJCSeJs2+yGMUpZYVExV7EbYcXGrURBsUCzkR3TSDGpFOXpwlnZfdg6wMYep+mbyaJToQv125srV+4ScpEaeLSGLFI97NrwvoqH3ibYSb2L3OHPotGnhEp66325Bf1xTVPTnZ/69FTWazfBvsQ3tG/VVz3DDWy+eiyjMnuKndgIzQlo15HssFji4XKCmmGeMMbYORm6c4CjL5Lb7nK5LjKzvMi/uTkzKrUeObgy7CoqdQFYH1c4Fo4gtHzxzs/Uv8O4f3NzHDJmJGNY/b1mAB8mrT6+Fj9RuXwaZA4BaNSQ0HdLwLvepWRWfoFzsx1R9mvNOXHZQvg4ZM= charite@DESKTOP-1JCVV8Q
